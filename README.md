@@ -2,7 +2,8 @@
 Running a local Piper TTS server with Python on ubuntu 24.04
 
 # Youtube source / Thorsten Mueller
-https://www.youtube.com/watch?v=pLR5AsbCMHs&t=219s 
+https://www.youtube.com/watch?v=pLR5AsbCMHs&t=219s
+#Github source of Thorsten Mueller
 https://github.com/thorstenMueller/youtube/tree/main/TTS/PiperTTS 
 
 # Download required voices models from Piper, that is, .onnx and .jason files per voice:
